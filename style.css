@@ -1,0 +1,193 @@
+.div1 {
+    border: 1px solid black;
+    height: 350px;
+    background-image: url(img/bed`.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 480px;
+    opacity: 80%;
+}
+
+.div2 {
+    border: 1px solid black;
+    height: 320px;
+    background-color: rgba(255, 252, 228, 0.907);
+
+}
+
+.div3 {
+    border: 1px solid black;
+    height: 550px;
+    background-color: black;
+
+}
+
+.div4 {
+    border: 1px solid black;
+    height: 200px;
+    background-color: rgba(246, 242, 208, 0.67);
+}
+
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif, sans-serif;
+    font-size: 110%;
+    margin-right: 1%;
+    margin-top: 1%;
+    word-spacing: 2%;
+    float: right;
+
+}
+
+.linked-para {
+    margin-right: 45px;
+    border-bottom: 1px solid white;
+    margin-top: -0.2%;
+}
+
+.link:hover {
+    text-decoration: underline;
+
+}
+
+.p2 {
+    color: white;
+    margin-left: 5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1 {
+    color: white;
+    margin-left: 5%;
+    margin-top: 7%;
+}
+
+span {
+    color: red;
+}
+
+button {
+    margin-left: 1%;
+    color: white;
+    width: 8%;
+    height: 30px;
+    background-color: red;
+    border: 1px solid red;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.b2 {
+    margin-left: 5%;
+}
+
+.h1 {
+    color: black;
+    text-align: right;
+    margin-top: -12%;
+    margin-right: 42%;
+    font-size: 320%;
+
+}
+
+.p3 {
+    color: black;
+    margin-left: 42%;
+    margin-top: -1%;
+    word-spacing: 15px;
+    font-size: 130%;
+}
+
+.b3 {
+    margin-left: 48%;
+    width: 10%;
+    height: 35px;
+    font-size: larger;
+}
+
+.div31 {
+    border: 1px solid white;
+    display: inline-block;
+    margin-left: 1%;
+    width: 15%;
+    height: 400px;
+    text-align: center;
+    color: white;
+}
+
+#hi {
+    margin-left: 25%;
+    margin-top: 1%;
+}
+
+.hello {
+    margin-top: 1%;
+    margin-left: 42%;
+}
+
+.p4 {
+    margin-left: 38%;
+    color: white;
+}
+
+.b4 {
+    background-color: black;
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 48%;
+    height: 30px;
+}
+
+.img4 {
+    margin-left: 10%;
+    margin-top: 2%;
+    height: 220px;
+    border-radius: 10%;
+}
+
+.img3 {
+    margin-top: 4%;
+    border-bottom-right-radius: 15%;
+    border-bottom: 2px solid white;
+}
+
+.img5 {
+    height: 40%;
+    margin-right: 1%;
+    margin-top: 4%;
+    border-bottom-right-radius: 15%;
+    border-bottom: 2px solid white;
+}
+
+.p5 {
+    font-size: 80%;
+    word-spacing: 5px;
+}
+
+.div32 {
+    position: absolute;
+    margin-top: 18px;
+    border: 1px solid white;
+    display: inline-block;
+    margin-left: 1%;
+    width: 15%;
+    height: 400px;
+    text-align: center;
+    color: white;
+}
+.sp{
+    font-size: x-large;
+}
+.pp{
+    margin-left: 25%;
+}
+.img2{
+    float: right;
+    margin-right: 40%;
+    margin-top: -5%;
+}
+.spa{
+    font-size: large;
+}
